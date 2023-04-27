@@ -1,2 +1,2 @@
 # FM_study
-Object-oriented facts and misconceptions Study
+The Essence of Object-Orientation Study
